@@ -77,6 +77,13 @@ Certifications are not necessary but they can open more doors and give you more 
   - Being able to communicate your ideas to different people
   - Being able to inform your teammate about any issues or bugs
 
+
+| Position        | Experience     | Salary             |
+| --------------- |:--------------:| ------------------:|
+| Entry Level     | 0-2 years      | $45,000 - $70,000  |
+| Mid Level       | 3-5 years      | $75,000 - $100,000 |
+| Senior Level    | 5+ years       | $100,000+          |
+
 ## Standard Education
 ### Univeristy of Waterloo Computer Science Program (Bachelor of Computer Science)
 
@@ -152,13 +159,6 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
  
  
 ## Real Jobs
-
-| Position        | Experience     | Salary             |
-| --------------- |:--------------:| ------------------:|
-| Entry Level     | 0-2 years      | $45,000 - $70,000  |
-| Mid Level       | 3-5 years      | $75,000 - $100,000 |
-| Senior Level    | 5+ years       | $100,000+          |
-
 ### Entry Level Position: [Jr. Software Developer](https://ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=10&advn=2166955286315984&vjk=793c1325064ee690)
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper5.jpg?raw=true" width="300px" height="158px">
 
