@@ -75,7 +75,7 @@ Ontario students: six Grade 12 U and/or M courses including:
  
 > Admission average: Low 90s
  
-
+  
 #### First Year Programs
 ##### September to December
 - [CS 135](http://ugradcalendar.uwaterloo.ca/courses/CS/135) - __Designing Functional Programs__: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
@@ -128,6 +128,12 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
  
  
 ## Real Jobs
+
+| Position        | Experience     | Salary             |
+| --------------- |:--------------:| ------------------:|
+| Entry Level     | 0-2 years      | $55,000 - $84,000  |
+| Mid Level       | 3-5 years      | $75,000 - $100,000 |
+| Senior Level    | 5+ years       | $100,000+          |
 
 # Insert table
 ### Entry Level Position
