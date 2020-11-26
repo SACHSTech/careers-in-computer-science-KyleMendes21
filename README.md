@@ -108,6 +108,9 @@ Ontario students: six Grade 12 U and/or M courses including:
 Usually the program length is 4 years but if you are taking coop it will take 5 years
 
 ## Experiential Learning
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper4.jpg?raw=true" align="right" width="333px" height="222px">
+
 ### Co-op
 #### How Co-op works
 - You will alternate between study terms and work terms. Computer science has various [work/study](https://uwaterloo.ca/future-students/co-op/study-work-sequences) sequences available which will allow you more flexibility
