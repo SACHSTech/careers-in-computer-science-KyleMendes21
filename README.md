@@ -2,11 +2,12 @@
 # Careers in Computer Science: Software Developer
 
 ## Table of Contents
-[The Basics](#The-Basics)
-Standard Education
-[Experiential Learning](#Skills)
-Real Jobs
-Work Cited
+- [The Basics](#The-Basics) 
+- [Standard Education](#Standard-Education)
+- [Experiential Learning](#Experiential-Learning) 
+- [Real Jobs](#Real-Jobs)
+- [Work Cited](#Work-Cited)
+
 
 ## The Basics
 ### What does a Software Developer do?
