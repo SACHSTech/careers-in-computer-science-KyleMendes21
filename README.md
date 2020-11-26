@@ -45,7 +45,7 @@ Certifications are not necessary but they can open more doors and give you more 
 - Project Management
 
 ### Skills
-#### Technical
+#### Technical Skills
 - Complete knowledge of technology and computer systems
   - Being able to work with different systems like Linux, Windows or IOS
   - Keeping up to date with the new trends and updates within the industry
@@ -62,28 +62,20 @@ Certifications are not necessary but they can open more doors and give you more 
   - Many software developers are fluent in one or two coding languages
   - You should know one relevant coding language
 
-
-#### Detailed Oriented
-- Being able to detect what creates an error in your code
-- A single line of code could ruin your whole application
-
-#### Problem Solving Skills
-- Most of the time you have to solve different problems
-- Being able to figure out what is creating an error in your cod
-- Solving the issues or errors in a timely manner
-
-#### Multitasking
-- Being able to work on multiple projects at once
-- Being able to evaluate a variety of issues at the same time
-
-#### Responsible
-- Being able to be on time with deadlines
-- Being able to attend meeting
-
-#### Communication 
-- Being able to communicate with your coworkers and team
-- Being able to communicate your ideas to different people
-- Being able to inform your teammate about any issues or bugs
+#### Non-Technical Skills
+- Work independently and with a team
+  - Some of the time you will have to work with little supervision
+  - Sometimes you will be put into teams for a project
+- Multitasking
+  - Being able to work on multiple projects at once
+  - Being able to evaluate a variety of issues at the same time
+- Responsible
+  - Being able to be on time with deadlines
+  - Being able to attend meeting
+- Communication
+  - Being able to communicate with your coworkers and team
+  - Being able to communicate your ideas to different people
+  - Being able to inform your teammate about any issues or bugs
 
 ## Standard Education
 ### Univeristy of Waterloo Computer Science Program (Bachelor of Computer Science)
