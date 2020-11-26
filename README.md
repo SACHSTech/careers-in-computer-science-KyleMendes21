@@ -45,11 +45,23 @@ Certifications are not necessary but they can open more doors and give you more 
 - Project Management
 
 ### Skills
-#### Knowledge of Technology
-- Being able to work with different systems like Linux, Windows or IOS
-- Keeping up to date with the new trends and updates within the industry
-- Understanding what hardware is required for a programs to run
-- Being proficiency when using different languages
+#### Technical
+- Complete knowledge of technology and computer systems
+  - Being able to work with different systems like Linux, Windows or IOS
+  - Keeping up to date with the new trends and updates within the industry
+  - Understanding what hardware is required for a programs to run
+  - Being proficiency when using different languages
+- Detailed oriented
+  - Being able to detect what creates an error in your code
+  - A single line of code could ruin your whole application
+- Problem solving skills
+  - Most of the time you have to solve different problems
+  - Being able to figure out what is creating an error in your cod
+  - Solving the issues or errors in a timely manner
+- Computer Coding Languages
+  - Many software developers are fluent in one or two coding languages
+  - You should know one relevant coding language
+
 
 #### Detailed Oriented
 - Being able to detect what creates an error in your code
