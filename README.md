@@ -97,3 +97,31 @@ Ontario students: six Grade 12 U and/or M courses including:
  
 #### Program Length
 Usually the program length is 4 years but if you are taking coop it will take 5 years
+
+## Experiential Learning
+### Co-op
+#### How coop works
+- You will alternate between study terms and work terms. Computer science has various work/study sequences available which will allow you more flexibility
+- The Centre for Career Action will help you polish your resumes, navigate your career path and develop your interview skills
+ 
+#### Benefits
+- Gain a lot of work experience while studying
+- Make money while you study
+- Apply knowledge learned in class to the real world
+- Create a network and meet new people
+- Discover and learn new personal skills and strengths
+- Become more employable after graduation
+- Have more opportunities after you graduate (have a job lined up at one of your coop workplaces)
+ 
+### Coding Bootcamp
+#### What is it:
+- A coding bootcamp is a training program that teaches you the programming skills that employers are looking for.
+- Coding bootcamps allow students with little coding proficiency to learn the most important aspects of coding
+- It is an alternate option to a 4 year degree
+- Coding bootcamps usually last around 6 weeks to two years.
+ 
+#### Benefits
+- They are able to immediately apply the new coding skills learned to solve real world problems
+- At the end of a coding bootcamp you will have proficiency knowledge in programming languages, and frameworks
+- You will also learn various skills like web development, digital marketing, UX/UI Design, Data Science and much more
+ 
