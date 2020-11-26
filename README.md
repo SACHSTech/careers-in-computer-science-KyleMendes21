@@ -77,7 +77,6 @@ Certifications are not necessary but they can open more doors and give you more 
   - Being able to communicate your ideas to different people
   - Being able to inform your teammate about any issues or bugs
 
-
 | Position        | Experience     | Salary             |
 | --------------- |:--------------:| ------------------:|
 | Entry Level     | 0-2 years      | $45,000 - $70,000  |
@@ -97,22 +96,21 @@ Ontario students: six Grade 12 U and/or M courses including:
 - One other 4U course
  
 ##### Other Notes
-- Recommended: Grade 11 U Introduction to Computer Science
-- Recommended: Writing any of the waterloo Math contests: [Canadian Computer Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
+- *Recommended:* Grade 11 U Introduction to Computer Science
+- *Recommended:* Writing any of the waterloo Math contests: [Canadian Computer Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
 - Must complete the [Admission Information Form](https://uwaterloo.ca/future-students/admissions/admission-information-form)
  
 > Admission average: Low 90s
  
-  
 #### First Year Programs
-##### September to December
+##### *September to December*
 - [CS 135](http://ugradcalendar.uwaterloo.ca/courses/CS/135) - __Designing Functional Programs__: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
 - [Math 135](http://ugradcalendar.uwaterloo.ca/courses/MATH/135) - __Algebra__: An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials.
 - [Math 137](http://ugradcalendar.uwaterloo.ca/courses/MATH/137) - __Calculus 1__: Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
 - One communication skills course
 - One Elective
  
-##### January to April
+##### *January to April*
 - [CS 136](http://ugradcalendar.uwaterloo.ca/courses/CS/136) - __Algorithm Design and Data Abstraction__: This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations. Topics discussed include iterative and recursive sorting algorithms; lists, stacks, queues, trees, and their application; abstract data types and their implementations.
 - [Math 136](http://ugradcalendar.uwaterloo.ca/courses/MATH/136) - __Linear Algebra 1__: Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
 - [Math 138](http://ugradcalendar.uwaterloo.ca/courses/MATH/138) - __Calculus 2__: Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
@@ -146,7 +144,7 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 - Have more opportunities after you graduate (have a job lined up at one of your coop workplaces)
  
 ### Coding Bootcamp
-#### What is it:
+#### What is Coding Bootcamp
 - A coding bootcamp is a training program that teaches you the programming skills that employers are looking for.
 - Coding bootcamps allow students with little coding proficiency to learn the most important aspects of coding
 - It is an alternate option to a 4 year degree
@@ -157,9 +155,9 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 - At the end of a coding bootcamp you will have proficiency knowledge in programming languages, and frameworks
 - You will also learn various skills like web development, digital marketing, UX/UI Design, Data Science and much more
  
- 
 ## Real Jobs
 ### Entry Level Position: [Jr. Software Developer](https://ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=10&advn=2166955286315984&vjk=793c1325064ee690)
+
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper5.jpg?raw=true" width="300px" height="158px">
 
 #### Description
@@ -184,11 +182,11 @@ The ideal candidate for this position is a thoughtful problem solver who can eas
 - Strong Bash skills
 - Test driven development
 - Experience with multi-processing architectures and asynchronous web frameworks
-_ Tech startup experience
+- Tech startup experience
 
-> Salary: $45,000.00-$70,000.00 per year
-> Experience: Software Development: 1 year (Preferred)
-> Location: Toronto, ON
+> *Salary:* $45,000.00-$70,000.00 per year
+> *Experience:* Software Development: 1 year (Preferred)
+> *Location:* Toronto, ON
 
 ### Mid Level Position: [Lead Software Developer](https://ca.indeed.com/viewjob?jk=67ef4e0735c6e7c8&from=tp-serp&tk=1eo1n8ldqt495800)
 
@@ -230,9 +228,9 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 - Experience with document accessibility concepts (PDF / UA requirements)
 - Experience with solutions that require rules-based complexity at scale
 
-> Salary: $75,000.00-$100,000.00 per year
-> Experience: Software Development: 3 years (Preferred)
-> Location: Toronto, ON
+> *Salary:* $75,000.00-$100,000.00 per year
+> *Experience:* Software Development: 3 years (Preferred)
+> *Location:* Toronto, ON
 
 ### Senior Level Position: [Senior Software Developer](https://ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=30&vjk=f9e2eb64f28b2cb3)
 
@@ -250,7 +248,7 @@ This is a great opportunity to join a growing software development company. You 
 - Be talented, highly motivated, and passionate about software quality and continuously strive to improve your skills and the quality of our software products
  
 #### Qualifications
-- Has 7+ years of experience with software development in C#
+- __Has 7+ years of experience with software development in C#__
 - Has 4+ years experience working with MS SQL Server or another relational database structure
 - Has 1+ years of experience with React
 - Has 2+ years of Single Page Application development (SPA)
@@ -273,8 +271,8 @@ This is a great opportunity to join a growing software development company. You 
 - Excellent communication and team skills (remote working experience).
 - Excellent knowledge of agile software development practices, and examples of providing leadership in supporting these practices in the workplace
 
-> Salary: $100,000.00-$110,000.00 per year
-> Experience: Software Development 7 years (preferred)
-> Location: Toronto, ON
+> *Salary:* $100,000.00-$110,000.00 per year
+> *Experience:* Software Development 7 years (preferred)
+> *Location:* Toronto, ON
 
 ## Work Cited
