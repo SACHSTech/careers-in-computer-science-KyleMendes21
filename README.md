@@ -54,7 +54,7 @@ Software developers work for computer manufacturers and firms like Google, Amazo
 - Being able to be on time with deadlines
 - Being able to attend meeting
 
-#### Communication
+#### Communication 
 - Being able to communicate with your coworkers and team
 - Being able to communicate your ideas to different people
 - Being able to inform your teammate about any issues or bugs
