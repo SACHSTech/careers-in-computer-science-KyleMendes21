@@ -9,7 +9,7 @@
 - [Standard Education](#Standard-Education)
 - [Experiential Learning](#Experiential-Learning) 
 - [Real Jobs](#Real-Jobs)
-- [Work Cited](#Work-Cited)
+- [Work Cited](#Work-Cited) 
 
 
 ## The Basics
@@ -190,7 +190,7 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 - Set technical direction and make technology decisions
 - Be a contributing member of our software engineering team
 - Ensure day-to-day operations are successful as we ship great software to our customers
--Ensure our engineering practices continually improve through iterative changes
+- Ensure our engineering practices continually improve through iterative changes
 - Establish and follow enterprise level coding standards
 - Manage our North American engineering team
 - Collaborate with our European engineering team
