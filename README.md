@@ -241,3 +241,5 @@ This is a great opportunity to join a growing software development company. You 
 - Understanding of Domain Driven Design (DDD) and Test-Driven Design (TDD)
 - Excellent communication and team skills (remote working experience).
 - Excellent knowledge of agile software development practices, and examples of providing leadership in supporting these practices in the workplace
+
+## Work Cited
