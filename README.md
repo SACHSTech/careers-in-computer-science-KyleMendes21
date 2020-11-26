@@ -11,7 +11,6 @@
 - [Real Jobs](#Real-Jobs)
 - [Work Cited](#Work-Cited) 
 
-
 ## The Basics
 ### What does a Software Developer do?
 Software developers work for computer manufacturers and firms like Google, Amazon and Microsoft. They create the base for operating systems which computer programmers use. They do a variety of things like design, write and test their code for different systems and software to make sure that is efficient. They also run quality assurance and diagnostic programs to test existing projects before they release them to ensure effectiveness. A software developer is heavily involved with the process related to designing and creating new systems from creating the plan to establishing parameters, writing, coding, designing testing and encrypting. These tasks are usually completed by a team/group of software developers. Each of the members carry out a specific step of the process and most of the time there is a supervisor who oversees the entire process. Software developers frequently use several programming languages. Their job is very complex and involves a lot of advanced knowledge in mathematics and computer science. Software developers are constantly evolving and with new technology and advancements there is a constant state of self improvement and learning. 
