@@ -249,5 +249,6 @@ This is a great opportunity to join a growing software development company. You 
 
 > Salary: $100,000.00-$110,000.00 per year
 > Experience: Software Development 7 years (preferred)
+> Location: Toronto, ON
 
 ## Work Cited
