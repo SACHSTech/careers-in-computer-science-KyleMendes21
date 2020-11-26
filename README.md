@@ -35,6 +35,15 @@ Software developers work for computer manufacturers and firms like Google, Amazo
 * Masters degree will give your more opportunities with higher pay but it is not required
 * Time is an important requirement because after about 7 years you have more knowledge increasing your pay and opportunities
 
+### Certifications
+Certifications are not necessary but they can open more doors and give you more credentials. Getting certified in anyone of the following programs will give you more opportunities and make you stand out.
+- Microsoft (MTA) 
+- Microsoft Azure
+- Amazon Web Services (AWS Certified Developer - Associate Level)
+- Oracle (OCP, OCM, OCE)
+- Salesforce
+- Project Management
+
 ### Skills
 #### Knowledge of Technology
 - Being able to work with different systems like Linux, Windows or IOS
