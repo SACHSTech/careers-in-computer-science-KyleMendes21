@@ -3,7 +3,6 @@
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper2.jpg?raw=true" align="right" width="400px" height="209px">
 
-
 ## Table of Contents
 - [The Basics](#The-Basics) 
 - [Standard Education](#Standard-Education)
@@ -260,7 +259,7 @@ This is a great opportunity to join a growing software development company. You 
 - Effective at communicating and explaining complex systems
 - Demonstrated skill in coaching and mentorship via code review and other process
 
-##### Impressed by
+##### Bonus Points
 - Personal project work that is online, or available via github, or other activity supporting the software ecosystem (ex: meetups, StackOverflow participation, etc)
 - Experience working with MSFT Azure Cloud Computing
 - Experience with applications running in Kubernetes clusters
