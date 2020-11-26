@@ -2,16 +2,15 @@
 # Careers in Computer Science: Software Developer
 
 ## Table of Contents
-The Basics
+[The Basics](#The-Basics)
 Standard Education
-Experiential Learning
+[Experiential Learning](#Skills)
 Real Jobs
 Work Cited
 
 ## The Basics
 ### What does a Software Developer do?
 Software developers work for computer manufacturers and firms like Google, Amazon and Microsoft. They create the base for operating systems which computer programmers use. They do a variety of things like design, write and test their code for different systems and software to make sure that is efficient. They also run quality assurance and diagnostic programs to test existing projects before they release them to ensure effectiveness. A software developer is heavily involved with the process related to designing and creating new systems from creating the plan to establishing parameters, writing, coding, designing testing and encrypting. These tasks are usually completed by a team/group of software developers. Each of the members carry out a specific step of the process and most of the time there is a supervisor who oversees the entire process. Software developers frequently use several programming languages. Their job is very complex and involves a lot of advanced knowledge in mathematics and computer science. Software developers are constantly evolving and with new technology and advancements there is a constant state of self improvement and learning. 
-
 
 ### Responsibilities
 * Researching, planning, implementing, designing and managing different software programs
@@ -32,7 +31,7 @@ Software developers work for computer manufacturers and firms like Google, Amazo
 
 ### Skills
 #### Knowledge of Technology
-* Being able to work with different systems like Linux, Windows or IOS
+- Being able to work with different systems like Linux, Windows or IOS
 - Keeping up to date with the new trends and updates within the industry
 - Understanding what hardware is required for a programs to run
 - Being proficiency when using different languages
@@ -71,28 +70,30 @@ Ontario students: six Grade 12 U and/or M courses including:
  
 ##### Other Notes
 - Recommended: Grade 11 U Introduction to Computer Science
-- Recommended: Writing any one of Math contests, ------(write name and link them)
-- Must complete the aif
+- Recommended: Writing any of the waterloo Math contests: [Canadian Computer Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
+- Must complete the [Admission Information Form](https://uwaterloo.ca/future-students/admissions/admission-information-form)
  
-##### Admission average: Low 90s
+> Admission average: Low 90s
  
+
 #### First Year Programs
 ##### September to December
-- CS 135 - Designing Functional Programs: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
-- Math 135 - Algebra: An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials.
-- Math 137 - Calculus 1: Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
+- [CS 135](http://ugradcalendar.uwaterloo.ca/courses/CS/135) - __Designing Functional Programs__: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
+- [Math 135](http://ugradcalendar.uwaterloo.ca/courses/MATH/135) - __Algebra__: An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials.
+- [Math 137](http://ugradcalendar.uwaterloo.ca/courses/MATH/137) - __Calculus 1__: Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
 - One communication skills course
 - One Elective
  
 ##### January to April
-- CS 136 - Algorithm Design and Data Abstraction: This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations. Topics discussed include iterative and recursive sorting algorithms; lists, stacks, queues, trees, and their application; abstract data types and their implementations.
-- Math 136 - Linear Algebra 1: Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
-- Math 138 - Calculus 2: Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
+- [CS 136](http://ugradcalendar.uwaterloo.ca/courses/CS/136) - __Algorithm Design and Data Abstraction__: This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations. Topics discussed include iterative and recursive sorting algorithms; lists, stacks, queues, trees, and their application; abstract data types and their implementations.
+- [Math 136](http://ugradcalendar.uwaterloo.ca/courses/MATH/136) - __Linear Algebra 1__: Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
+- [Math 138](http://ugradcalendar.uwaterloo.ca/courses/MATH/138) - __Calculus 2__: Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
 - Two Electives
  
 #### Graduation Requirements
 - Under Required Courses and Electives, check off the forty unique courses (20.0 units) that you have earned university credit for. Additional Elective Units can be any course for which you received university credit.
 - Verify that the Required Courses and Electives also satisfy the Additional Constraints.
+- [Click here to see the full course requirements](https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/2020-2021_bcs.pdf)
 - Depending on your specific program you might have to complete 6 terms of coop
  
 #### Program Length
@@ -100,8 +101,8 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 
 ## Experiential Learning
 ### Co-op
-#### How coop works
-- You will alternate between study terms and work terms. Computer science has various work/study sequences available which will allow you more flexibility
+#### How Co-op works
+- You will alternate between study terms and work terms. Computer science has various [work/study](https://uwaterloo.ca/future-students/co-op/study-work-sequences) sequences available which will allow you more flexibility
 - The Centre for Career Action will help you polish your resumes, navigate your career path and develop your interview skills
  
 #### Benefits
@@ -125,13 +126,15 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 - At the end of a coding bootcamp you will have proficiency knowledge in programming languages, and frameworks
 - You will also learn various skills like web development, digital marketing, UX/UI Design, Data Science and much more
  
-# insert chart about position and salary
  
 ## Real Jobs
+
+# Insert table
 ### Entry Level Position
 #### Software Developer
 #### About the Position
 We are looking for a talented C++ and Python developer to help create the software for our workflow of information extraction from high resolution satellite images. Working with a small but growing software team, you will have the opportunity to work on the full software stack, from the design of the software architecture, algorithm development, to the graphical interface that allows our customers to use the system.
+
 #### Responsibilities
 - Develop image processing models and algorithms
 - Design, deploy and maintain standalone industrial image processing applications
@@ -159,7 +162,8 @@ We are looking for a talented C++ and Python developer to help create the softwa
 - Comfortable working independently, as well as part of a fast-paced and collaborative team environment.
 Proficient in Mandarin are assets.
  
-#### Salary: From $55,000.00 per year
+> Salary: From $55,000.00 per year
+
 #### Experience:
 - Computer Programming: 1 year (Required)
 - Software development: 1 year (Required)
@@ -203,13 +207,16 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 - Experience with Azure
 - Experience with document accessibility concepts (PDF / UA requirements)
 - Experience with solutions that require rules-based complexity at scale
-#### Salary: $75,000.00-$100,000.00 per year
+
+> Salary: $75,000.00-$100,000.00 per year
  
 #### Experience: Software Development: 3 years (Preferred)
+
 ### Senior Level Position
 # insert job title
 #### Description
 This is a great opportunity to join a growing software development company. You will have the best of both worlds: join a software company that has a real product, real customers, growing revenue and a rock-solid financial picture, and have the opportunity to work for a cool technology company with tons of growth potential. Our office is that perfect mix of urban cool and industrial chic. As a Full Stack .Net Developer, you will help support development efforts to build features in a product that will make organizations Safer, Healthier, and Stronger.
+
 #### Responsibilities
 ##### Here’s what you will be doing:
 - Write excellent code in C# for our server, and either React or Razor for front-end code as needed
@@ -232,6 +239,7 @@ This is a great opportunity to join a growing software development company. You 
 - Understanding of how to manage data to support Business Intelligence is an asset
 - Effective at communicating and explaining complex systems
 - Demonstrated skill in coaching and mentorship via code review and other process
+
 ##### Impressed by
 - Personal project work that is online, or available via github, or other activity supporting the software ecosystem (ex: meetups, StackOverflow participation, etc)
 - Experience working with MSFT Azure Cloud Computing
@@ -241,5 +249,7 @@ This is a great opportunity to join a growing software development company. You 
 - Understanding of Domain Driven Design (DDD) and Test-Driven Design (TDD)
 - Excellent communication and team skills (remote working experience).
 - Excellent knowledge of agile software development practices, and examples of providing leadership in supporting these practices in the workplace
+
+> Salary: $100,000.00-$110,000.00 per year
 
 ## Work Cited
