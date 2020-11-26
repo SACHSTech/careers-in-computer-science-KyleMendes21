@@ -146,8 +146,9 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 | Mid Level       | 3-5 years      | $75,000 - $100,000 |
 | Senior Level    | 5+ years       | $100,000+          |
 
-# Insert table
 ### Entry Level Position: [Jr. Software Developer](https://ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=10&advn=2166955286315984&vjk=793c1325064ee690)
+<img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper5.jpg?raw=true" width="300px" height="158px">
+
 #### Description
 We are adding a Fullstack Developer to the team. As a member of the team, you will get a chance to develop complex web applications, using a mix of Javascript (React) and Python. You will be working in a highly collaborative environment. This is an exciting role for someone who enjoys the challenge and responsibility of large projects.
 The ideal candidate for this position is a thoughtful problem solver who can easily adapt to the changing requirements and quickly learn new technologies. They are passionate about developing modern, cutting-edge web applications, and can balance empathy to end-user with technical requirements.
@@ -177,6 +178,9 @@ _ Tech startup experience
 > Location: Toronto, ON
 
 ### Mid Level Position: [Lead Software Developer](https://ca.indeed.com/viewjob?jk=67ef4e0735c6e7c8&from=tp-serp&tk=1eo1n8ldqt495800)
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper6.jpg?raw=true" width="313px" height="197px">
+
 #### Description
 AbleDocs is the worldwide leader in document accessibility, processing millions of documents per month for clients ranging from independent designers, to Fortune 100 organizations and government entities from around the world. Making documents accessible for people with print disabilities is all we do! We push the limits of making content accessible to all, ensuring people with print disabilities can live independently.
 We have a strong passion and dedication to our clients and are looking for a Lead Software Developer to join our team and take our practices to the next level. You will be an essential part of building the next generation of our products and our company.
@@ -218,6 +222,9 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 > Location: Toronto, ON
 
 ### Senior Level Position: [Senior Software Developer](https://ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=30&vjk=f9e2eb64f28b2cb3)
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper7.jpg?raw=true" width="338px" height="225px">
+
 #### Description
 This is a great opportunity to join a growing software development company. You will have the best of both worlds: join a software company that has a real product, real customers, growing revenue and a rock-solid financial picture, and have the opportunity to work for a cool technology company with tons of growth potential. Our office is that perfect mix of urban cool and industrial chic. As a Full Stack .Net Developer, you will help support development efforts to build features in a product that will make organizations Safer, Healthier, and Stronger.
 
