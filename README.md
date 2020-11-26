@@ -59,3 +59,41 @@ Software developers work for computer manufacturers and firms like Google, Amazo
 - Being able to communicate your ideas to different people
 - Being able to inform your teammate about any issues or bugs
 
+## Standard Education
+### Univeristy of Waterloo Computer Science Program (Bachelor of Computer Science)
+ 
+#### Requirements
+Ontario students: six Grade 12 U and/or M courses including:
+- Advanced function
+- Calculus and Vectors
+- Any Grade 12 U English
+- One other 4U course
+ 
+##### Other Notes
+- Recommended: Grade 11 U Introduction to Computer Science
+- Recommended: Writing any one of Math contests, ------(write name and link them)
+- Must complete the aif
+ 
+##### Admission average: Low 90s
+ 
+#### First Year Programs
+##### September to December
+- CS 135 - Designing Functional Programs: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
+- Math 135 - Algebra: An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials.
+- Math 137 - Calculus 1: Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software.
+- One communication skills course
+- One Elective
+ 
+##### January to April
+- CS 136 - Algorithm Design and Data Abstraction: This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations. Topics discussed include iterative and recursive sorting algorithms; lists, stacks, queues, trees, and their application; abstract data types and their implementations.
+- Math 136 - Linear Algebra 1: Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
+- Math 138 - Calculus 2: Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.
+- Two Electives
+ 
+#### Graduation Requirements
+- Under Required Courses and Electives, check off the forty unique courses (20.0 units) that you have earned university credit for. Additional Elective Units can be any course for which you received university credit.
+- Verify that the Required Courses and Electives also satisfy the Additional Constraints.
+- Depending on your specific program you might have to complete 6 terms of coop
+ 
+#### Program Length
+Usually the program length is 4 years but if you are taking coop it will take 5 years
