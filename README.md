@@ -245,7 +245,9 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper7.jpg?raw=true" width="338px" height="225px">
 
 > *Salary:* $100,000.00-$110,000.00 per year 
-> *Experience:* Software Development 7 years (preferred) 
+
+> *Experience:* Software Development 7 years (preferred)
+ 
 > *Location:* Toronto, ON 
 
 #### Description
