@@ -177,6 +177,8 @@ There are many different types of experiential learning that could enrich your k
 
 > *Location:* Toronto, ON
 
+> *Employer:* Hatchways Canada
+
 #### Description
 We are adding a Fullstack Developer to the team. As a member of the team, you will get a chance to develop complex web applications, using a mix of Javascript (React) and Python. You will be working in a highly collaborative environment. This is an exciting role for someone who enjoys the challenge and responsibility of large projects.
 The ideal candidate for this position is a thoughtful problem solver who can easily adapt to the changing requirements and quickly learn new technologies. They are passionate about developing modern, cutting-edge web applications, and can balance empathy to end-user with technical requirements.
@@ -210,6 +212,8 @@ The ideal candidate for this position is a thoughtful problem solver who can eas
 > *Experience:* Software Development: 3 years (Preferred)
 
 > *Location:* Toronto, ON
+
+> *Employer:* Abledocs
 
 We have a strong passion and dedication to our clients and are looking for a Lead Software Developer to join our team and take our practices to the next level. You will be an essential part of building the next generation of our products and our company.
  
@@ -252,7 +256,9 @@ We have a strong passion and dedication to our clients and are looking for a Lea
 
 > *Experience:* Software Development 7 years (preferred)
 
-> *Location:* Toronto, ON 
+> *Location:* Toronto, ON
+
+> *Employer:* eCompliance
 
 #### Description
 - Write excellent code in C# for our server, and either React or Razor for front-end code as needed
