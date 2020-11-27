@@ -313,10 +313,12 @@ https://www.facebook.com/ChadMCrabtree. “What Is a Coding Bootcamp, and How Do
 
 “Software Developers :    Occupational Outlook Handbook: :    U.S. Bureau of Labor Statistics.” Bls.Gov, Sept. 2020, www.bls.gov/ooh/computer-and-information-technology/software-developers.htm. Accessed 27 Nov. 2020.
 
+“Software Developers :    Occupational Outlook Handbook: :    U.S. Bureau of Labor Statistics”---. Bls.Gov, Sept. 2020, www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-2. Accessed 27 Nov. 2020.
+
 “Top 10 Software Developer Illustrations - Free & Premium Vectors & Images - Iconscout.” Iconscout, 2019, iconscout.com/illustrations/software-developer. Accessed 27 Nov. 2020.
 
 Weeks, Adele. “The 10 Best Software Engineer CV Examples and Templates.” Careeraddict.com, 23 Feb. 2020, www.careeraddict.com/software-engineer-cv-examples-templates. Accessed 27 Nov. 2020.
 
-“What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.Edu, 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. Accessed 27 Nov. 2020.
+“What Does a Software Developer Do?” Neuvoo.Ca, 2017, neuvoo.ca/neuvooPedia/en/software-developer/. Accessed 27 Nov. 2020.
 
-‌
+“What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.Edu, 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. Accessed 27 Nov. 2020.
