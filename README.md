@@ -100,7 +100,8 @@ Ontario students: six Grade 12 U and/or M courses including:
 - Must complete the [Admission Information Form](https://uwaterloo.ca/future-students/admissions/admission-information-form)
  
 > Admission average: Low 90s
- 
+      
+  
 #### First Year Programs
 ##### *September to December*
 - [CS 135](http://ugradcalendar.uwaterloo.ca/courses/CS/135) - __Designing Functional Programs__: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.
