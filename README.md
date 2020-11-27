@@ -131,7 +131,15 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 #### How Co-op works
 - You will alternate between study terms and work terms. Computer science has various [work/study](https://uwaterloo.ca/future-students/co-op/study-work-sequences) sequences available which will allow you more flexibility
 - The Centre for Career Action will help you polish your resumes, navigate your career path and develop your interview skills
- 
+
+#### Possible Co-op Placements
+- Microsoft 
+- Facebook 
+- Google 
+- Shopify 
+- OpenText Corporation 
+- NVIDIA Corporation
+
 #### Benefits
 - Gain a lot of work experience while studying
 - Make money while you study
