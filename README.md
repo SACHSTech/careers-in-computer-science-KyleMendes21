@@ -94,7 +94,7 @@ Ontario students: six Grade 12 U and/or M courses including:
 - Any Grade 12 U English
 - One other 4U course
  
-##### Other Notes
+#### Other Notes
 - *Recommended:* Grade 11 U Introduction to Computer Science
 - *Recommended:* Writing any of the waterloo Math contests: [Canadian Computing Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
 - Must complete the [Admission Information Form](https://uwaterloo.ca/future-students/admissions/admission-information-form)
@@ -239,7 +239,7 @@ We have a strong passion and dedication to our clients and are looking for a Lea
 - Strong analytical and problem-solving skills, especially dealing with rules-based complexity
 - Excellent communicator who can facilitate technical discussions and decision making as well as communicate engineering ideas to technical and non-technical audiences / business stakeholders
  
-##### Additional Skills and Experiences
+#### Additional Skills and Experiences
 - Experience with Azure
 - Experience with document accessibility concepts (PDF / UA requirements)
 - Experience with solutions that require rules-based complexity at scale
@@ -276,7 +276,7 @@ We have a strong passion and dedication to our clients and are looking for a Lea
 - Effective at communicating and explaining complex systems
 - Demonstrated skill in coaching and mentorship via code review and other process
 
-##### Additional Skills and Experiences
+#### Additional Skills and Experiences
 - Personal project work that is online, or available via github, or other activity supporting the software ecosystem (ex: meetups, StackOverflow participation, etc)
 - Experience working with MSFT Azure Cloud Computing
 - Experience with applications running in Kubernetes clusters
