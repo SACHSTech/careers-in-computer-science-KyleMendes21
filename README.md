@@ -290,3 +290,36 @@ This is a great opportunity to join a growing software development company. You 
 - Excellent knowledge of agile software development practices, and examples of providing leadership in supporting these practices in the workplace
 
 ## Work Cited
+“CodeEasyTech|Services.” Codeeasytech.In, 2020, codeeasytech.in/services.html. Accessed 27 Nov. 2020.
+
+“Computer Science.” Undergraduate Programs, 4 Apr. 2013, uwaterloo.ca/future-students/programs/computer-science. Accessed 27 Nov. 2020.
+
+EDge Interactive. “University of Waterloo - SchoolFinder.com!” SchoolFinder.com, 2020, www.schoolfinder.com/Schools/Quick-Facts/University/uwatl08/University-of-Waterloo. Accessed 27 Nov. 2020.
+
+“Freepik.” Freepik, 2019, www.freepik.com/premium-vector/software-development-process-vector-illustration_5298727.htm. Accessed 27 Nov. 2020.
+
+https://www.facebook.com/ChadMCrabtree. “What Is a Coding Bootcamp, and How Does It Work? | Career Karma.” Career Karma, 27 Apr. 2020, careerkarma.com/blog/preparing-for-a-coding-bootcamp/. Accessed 27 Nov. 2020.
+
+“Java SW Engineer | PANTHEON.Tech.” PANTHEON.Tech, 11 June 2020, pantheon.tech/java-sw-engineer/. Accessed 27 Nov. 2020.
+
+“Software Developer Job Description and Duties | Robert Half.” Roberthalf.com.Au, 11 Sept. 2017, www.roberthalf.com.au/employers/it-technology/software-developer-jobs. Accessed 27 Nov. 2020.
+
+“Software Developer Jobs in Toronto, ON (with Salaries) | Indeed.com Canada.” Indeed.com, 2020, ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=30&vjk=f9e2eb64f28b2cb3. Accessed 27 Nov. 2020.
+
+“Software Developer Jobs in Toronto, ON (with Salaries) | Indeed.com Canada”---. Indeed.com, 2020, ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&vjk=67ef4e0735c6e7c8. Accessed 27 Nov. 2020.
+
+“Software Developer Jobs in Toronto, ON (with Salaries) | Indeed.com Canada”---. Indeed.com, 2020, ca.indeed.com/jobs?q=Software%20Developer&l=Toronto%2C%20ON&start=10&advn=2166955286315984&vjk=793c1325064ee690. Accessed 27 Nov. 2020.
+
+“Software Developer Vector Illustration by Hoangpts on Envato Elements.” Envato Elements, 2020, elements.envato.com/software-developer-vector-illustration-46LPL48. Accessed 27 Nov. 2020.
+
+“Software Developer vs. Software Engineer | Elmhurst University.” Elmhurst University, 5 Nov. 2019, www.elmhurst.edu/blog/software-developer-vs-software-engineer/. Accessed 27 Nov. 2020.
+
+“Software Developers :    Occupational Outlook Handbook: :    U.S. Bureau of Labor Statistics.” Bls.Gov, Sept. 2020, www.bls.gov/ooh/computer-and-information-technology/software-developers.htm. Accessed 27 Nov. 2020.
+
+“Top 10 Software Developer Illustrations - Free & Premium Vectors & Images - Iconscout.” Iconscout, 2019, iconscout.com/illustrations/software-developer. Accessed 27 Nov. 2020.
+
+Weeks, Adele. “The 10 Best Software Engineer CV Examples and Templates.” Careeraddict.com, 23 Feb. 2020, www.careeraddict.com/software-engineer-cv-examples-templates. Accessed 27 Nov. 2020.
+
+“What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.Edu, 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. Accessed 27 Nov. 2020.
+
+‌
