@@ -75,6 +75,7 @@ Certifications are not necessary but they can open more doors and give you more 
   - Being able to communicate your ideas to different people
   - Being able to inform your teammate about any issues or bugs
 
+### Salary
 | Position        | Experience     | Salary             |
 | --------------- |:--------------:| ------------------:|
 | Entry Level     | 0-2 years      | $45,000 - $70,000  |
