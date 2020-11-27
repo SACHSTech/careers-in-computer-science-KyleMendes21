@@ -244,9 +244,9 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper7.jpg?raw=true" width="338px" height="225px">
 
-> *Salary:* $100,000.00-$110,000.00 per year
-> *Experience:* Software Development 7 years (preferred)
-> *Location:* Toronto, ON
+> *Salary:* $100,000.00-$110,000.00 per year 
+> *Experience:* Software Development 7 years (preferred) 
+> *Location:* Toronto, ON 
 
 #### Description
 This is a great opportunity to join a growing software development company. You will have the best of both worlds: join a software company that has a real product, real customers, growing revenue and a rock-solid financial picture, and have the opportunity to work for a cool technology company with tons of growth potential. Our office is that perfect mix of urban cool and industrial chic. As a Full Stack .Net Developer, you will help support development efforts to build features in a product that will make organizations Safer, Healthier, and Stronger.
