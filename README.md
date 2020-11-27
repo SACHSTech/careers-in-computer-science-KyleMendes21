@@ -83,10 +83,10 @@ Certifications are not necessary but they can open more doors and give you more 
 | Senior Level    | 5+ years       | $100,000+          |
 
 ## Standard Education
-### Univeristy of Waterloo Computer Science Program (Bachelor of Computer Science)
+### Univeristy of Waterloo Computer Science Program (Bachelor of Computer Science) 
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/Waterloo1.jpg?raw=true" width="510px" height="186px">
- 
+
 #### Requirements
 Ontario students: six Grade 12 U and/or M courses including:
 - Advanced function
