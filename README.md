@@ -169,7 +169,9 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper5.jpg?raw=true" width="300px" height="158px">
 
 > *Salary:* $45,000.00-$70,000.00 per year
+
 > *Experience:* Software Development: 1 year (Preferred)
+
 > *Location:* Toronto, ON
 
 #### Description
@@ -201,7 +203,9 @@ The ideal candidate for this position is a thoughtful problem solver who can eas
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper6.jpg?raw=true" width="313px" height="197px">
 
 > *Salary:* $75,000.00-$100,000.00 per year
+
 > *Experience:* Software Development: 3 years (Preferred)
+
 > *Location:* Toronto, ON
 
 #### Description
@@ -247,7 +251,7 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 > *Salary:* $100,000.00-$110,000.00 per year 
 
 > *Experience:* Software Development 7 years (preferred)
- 
+
 > *Location:* Toronto, ON 
 
 #### Description
