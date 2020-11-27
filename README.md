@@ -12,7 +12,7 @@
 
 ## The Basics
 ### What does a Software Developer do?
-Software developers work for computer manufacturers and firms like Google, Amazon and Microsoft. They create the base for operating systems which computer programmers use. They do a variety of things like design, write and test their code for different systems and software to make sure that is efficient. They also run quality assurance and diagnostic programs to test existing projects before they release them to ensure effectiveness. A software developer is heavily involved with the process related to designing and creating new systems from creating the plan to establishing parameters, writing, coding, designing testing and encrypting. These tasks are usually completed by a team/group of software developers. Each of the members carry out a specific step of the process and most of the time there is a supervisor who oversees the entire process. Software developers frequently use several programming languages. Their job is very complex and involves a lot of advanced knowledge in mathematics and computer science. Software developers are constantly evolving and with new technology and advancements there is a constant state of self improvement and learning. 
+Software developers work for computer manufacturers and firms like Google, Amazon and Microsoft. They create the base for operating systems which computer programmers use. They do a variety of things like design, write and test their code for different systems and software to make sure that is efficient. They also run quality assurance and diagnostic programs to test existing projects before they release them to ensure effectiveness. A software developer is heavily involved with the process related to designing and creating new systems from creating the plan to establishing parameters, writing, coding, designing, testing and encrypting. These tasks are usually completed by a team/group of software developers. Each of the members carry out a specific step of the process and most of the time there is a supervisor who oversees the entire process. Software developers frequently use several programming languages. Their job is very complex and involves a lot of advanced knowledge in mathematics and computer science. Software developers are constantly evolving and with new technology and advancements there is a constant state of self improvement and learning. 
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper4..png?raw=true" align="right" width="343px" height="257px">
 
@@ -29,7 +29,7 @@ Software developers work for computer manufacturers and firms like Google, Amazo
 
 ### Required Education
 * A bachelors degree in computer science, computer engineering, software engineering or something similar
-* Majoring in computer science allowed you the  best background for becoming a software developers. The theoretical knowledge learned from computer science degrees will prepare you for the job and interview questions
+* Majoring in computer science allows you the best background for becoming a software developers. The theoretical knowledge learned from computer science degrees will prepare you for the job and interview questions
 * Masters degree will give your more opportunities with higher pay but it is not required
 * Time is an important requirement because after about 7 years you have more knowledge increasing your pay and opportunities
 
@@ -48,13 +48,13 @@ Certifications are not necessary but they can open more doors and give you more 
   - Being able to work with different systems like Linux, Windows or IOS
   - Keeping up to date with the new trends and updates within the industry
   - Understanding what hardware is required for a programs to run
-  - Being proficiency when using different languages
+  - Being proficient when using different languages
 - Detailed oriented
   - Being able to detect what creates an error in your code
   - A single line of code could ruin your whole application
 - Problem solving skills
   - Most of the time you have to solve different problems
-  - Being able to figure out what is creating an error in your cod
+  - Being able to figure out what is creating an error in your code
   - Solving the issues or errors in a timely manner
 - Computer Coding Languages
   - Many software developers are fluent in one or two coding languages
@@ -68,8 +68,8 @@ Certifications are not necessary but they can open more doors and give you more 
   - Being able to work on multiple projects at once
   - Being able to evaluate a variety of issues at the same time
 - Responsible
-  - Being able to be on time with deadlines
-  - Being able to attend meeting
+  - Being able to meet with deadlines
+  - Being able to attend meetings on time
 - Communication
   - Being able to communicate with your coworkers and team
   - Being able to communicate your ideas to different people
@@ -96,7 +96,7 @@ Ontario students: six Grade 12 U and/or M courses including:
  
 ##### Other Notes
 - *Recommended:* Grade 11 U Introduction to Computer Science
-- *Recommended:* Writing any of the waterloo Math contests: [Canadian Computer Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
+- *Recommended:* Writing any of the waterloo Math contests: [Canadian Computing Competition](https://cemc.math.uwaterloo.ca/contests/computing.html), [Canadian Senior Mathematics Contest (CSMC)](https://www.cemc.uwaterloo.ca/contests/csimc.html), and the [Euclid Mathematics Contest](http://cemc.math.uwaterloo.ca/contests/euclid.html)
 - Must complete the [Admission Information Form](https://uwaterloo.ca/future-students/admissions/admission-information-form)
  
 > Admission average: Low 90s
@@ -120,19 +120,22 @@ Ontario students: six Grade 12 U and/or M courses including:
 - Under Required Courses and Electives, check off the forty unique courses (20.0 units) that you have earned university credit for. Additional Elective Units can be any course for which you received university credit.
 - Verify that the Required Courses and Electives also satisfy the Additional Constraints.
 - [Click here to see the full course requirements](https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/2020-2021_bcs.pdf)
-- Depending on your specific program you might have to complete 6 terms of coop
+- Depending on if your are enrolled in coop you might have to complete 6 work terms
  
 #### Program Length
 Usually the program length is 4 years but if you are taking coop it will take 5 years
 
 ## Experiential Learning
+There are many different types of experiential learning that could enrich your knowledge and skills. The main experiential learning program that people participate in is coop which is highly recommended by most students and employers. Coding bootcamps are also another way for you to enrich your knowledge and learn more skills.
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-KyleMendes21/blob/main/Images/SoftwareDeveloper4.jpg?raw=true" align="right" width="333px" height="222px">
 
 ### Co-op
-#### How Co-op works
+#### How Co-op Works
 - You will alternate between study terms and work terms. Computer science has various [work/study](https://uwaterloo.ca/future-students/co-op/study-work-sequences) sequences available which will allow you more flexibility
 - The Centre for Career Action will help you polish your resumes, navigate your career path and develop your interview skills
+- When you take coop you spend part of your 5 years at a workplace for 4 months working there 
+- You usually work about 6 work terms
 
 #### Possible Co-op Placements
 - Microsoft 
@@ -149,18 +152,18 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 - Create a network and meet new people
 - Discover and learn new personal skills and strengths
 - Become more employable after graduation
-- Have more opportunities after you graduate (have a job lined up at one of your coop workplaces)
+- Have more opportunities after you graduate (possibly have a job lined up at one of your coop workplaces)
  
 ### Coding Bootcamp
 #### What is Coding Bootcamp
-- A coding bootcamp is a training program that teaches you the programming skills that employers are looking for.
-- Coding bootcamps allow students with little coding proficiency to learn the most important aspects of coding
+- A coding bootcamp is a training program that teaches you the programming skills that employers are looking for
+- Coding bootcamps allow students with little coding knowledge to learn the most important aspects of coding
 - It is an alternate option to a 4 year degree
-- Coding bootcamps usually last around 6 weeks to two years.
+- Coding bootcamps usually last around 6 weeks to two years depending on your program
  
 #### Benefits
-- They are able to immediately apply the new coding skills learned to solve real world problems
-- At the end of a coding bootcamp you will have proficiency knowledge in programming languages, and frameworks
+- You are able to immediately apply the new coding skills learned to solve real world problems
+- At the end of a coding bootcamp you will have excellent knowledge in programming languages, and frameworks
 - You will also learn various skills like web development, digital marketing, UX/UI Design, Data Science and much more
  
 ## Real Jobs
@@ -178,20 +181,20 @@ Usually the program length is 4 years but if you are taking coop it will take 5 
 We are adding a Fullstack Developer to the team. As a member of the team, you will get a chance to develop complex web applications, using a mix of Javascript (React) and Python. You will be working in a highly collaborative environment. This is an exciting role for someone who enjoys the challenge and responsibility of large projects.
 The ideal candidate for this position is a thoughtful problem solver who can easily adapt to the changing requirements and quickly learn new technologies. They are passionate about developing modern, cutting-edge web applications, and can balance empathy to end-user with technical requirements.
 
-#### What you bring:
+#### Requirements
 - Experience with a modern front-end framework (React, Angular 2+, Vue, Ember)
 - Experience with one of the following back-end frameworks: Python/Django, Ruby on Rails, Express/Node
 - Experience with non-relational or relational databases such as MongoDB, MySQL, Postgres, Redis, Cassandra
 - Experience with working with REST APIs, Git, modern UI frameworks (Material UI, Bootstrap, etc.)
 
-#### About you:
+#### About you
 - A positive attitude, motivated, and a fast learner
 - You love teamwork and find it easy to collaborate closely with the engineering team to solve complex problems in efficient and scalable ways
 - You are keen to learn modern technology
 - You have a passion for solving problems across all areas of the business
 - Excited with the opportunity to lead a small team!
 
-#### Bonus points:
+#### Additional Skills and Experiences
 - Experience using AWS or Google Cloud Platform
 - Strong Bash skills
 - Test driven development
@@ -208,12 +211,9 @@ The ideal candidate for this position is a thoughtful problem solver who can eas
 
 > *Location:* Toronto, ON
 
-#### Description
-AbleDocs is the worldwide leader in document accessibility, processing millions of documents per month for clients ranging from independent designers, to Fortune 100 organizations and government entities from around the world. Making documents accessible for people with print disabilities is all we do! We push the limits of making content accessible to all, ensuring people with print disabilities can live independently.
 We have a strong passion and dedication to our clients and are looking for a Lead Software Developer to join our team and take our practices to the next level. You will be an essential part of building the next generation of our products and our company.
  
-#### Responsibilities:
-As the senior leader of our engineering team, you will work with our Vice President of Operations to:
+#### Description
 - Set technical direction and make technology decisions
 - Be a contributing member of our software engineering team
 - Ensure day-to-day operations are successful as we ship great software to our customers
@@ -223,7 +223,7 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 - Collaborate with our European engineering team
 - Facilitate great product outcomes by collaborating with our architecture and design teams
  
-#### Skills and Experience:
+#### Skills and Experience
 - Full-stack developer with very strong backend experience
 - Strong coding skills in HTML, CSS, Javascript, PHP, JSON as well as experience with C ++, C #, and Python with a SaaS an API-driven environment
 - Solid database experience, in particular MySQL optimization for scale
@@ -239,7 +239,7 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 - Strong analytical and problem-solving skills, especially dealing with rules-based complexity
 - Excellent communicator who can facilitate technical discussions and decision making as well as communicate engineering ideas to technical and non-technical audiences / business stakeholders
  
-##### Bonus points for:
+##### Additional Skills and Experiences
 - Experience with Azure
 - Experience with document accessibility concepts (PDF / UA requirements)
 - Experience with solutions that require rules-based complexity at scale
@@ -255,9 +255,6 @@ As the senior leader of our engineering team, you will work with our Vice Presid
 > *Location:* Toronto, ON 
 
 #### Description
-This is a great opportunity to join a growing software development company. You will have the best of both worlds: join a software company that has a real product, real customers, growing revenue and a rock-solid financial picture, and have the opportunity to work for a cool technology company with tons of growth potential. Our office is that perfect mix of urban cool and industrial chic. As a Full Stack .Net Developer, you will help support development efforts to build features in a product that will make organizations Safer, Healthier, and Stronger.
-
-#### Responsibilities
 - Write excellent code in C# for our server, and either React or Razor for front-end code as needed
 - Support excellent planning and architecture discussions to ensure solutions match the needs of the problem being solved
 - Work within a squad and support the squad’s successful execution to its mission, including supporting Standup Meetings, Retrospectives, and Planning
@@ -279,7 +276,7 @@ This is a great opportunity to join a growing software development company. You 
 - Effective at communicating and explaining complex systems
 - Demonstrated skill in coaching and mentorship via code review and other process
 
-##### Bonus Points
+##### Additional Skills and Experiences
 - Personal project work that is online, or available via github, or other activity supporting the software ecosystem (ex: meetups, StackOverflow participation, etc)
 - Experience working with MSFT Azure Cloud Computing
 - Experience with applications running in Kubernetes clusters
